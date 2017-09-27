@@ -1,0 +1,12 @@
+body{
+	background: orange;
+	font-family: cursive;
+}
+
+header {
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	background: red;
+
+}
